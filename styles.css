@@ -1,0 +1,15 @@
+button{
+  background-color: aqua;
+}
+.dark{
+  background-color: black;
+}
+.white{
+  background-color: white;
+}
+.toggle{
+  background-color: black;
+}
+.toggleHeading{
+  color: white;
+}
